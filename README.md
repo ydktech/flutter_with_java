@@ -1,16 +1,6 @@
 # flutter_with_java
+I made this while making my tizen project. this connects javascript and flutter. no java. sorry.  
+타이젠프로젝트를 위해 만들게 된 자바스크립트&플러터 연동 프로그램입니다. 참고해 주세요.  
+tizen プロジェクトのため作ることになったプログラムです。参考として使ってください。  
 
-java
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Actually, this app was made in the past, so i cant remember how to use or something. But if i can help you, just send me e-mail or twitter dm. Thank you!
